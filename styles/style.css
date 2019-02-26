@@ -1,0 +1,154 @@
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+#img-style {
+  height: 400px;
+}
+.links-nav li {
+  color: #ffffff;
+}
+
+.topBar {
+  position: absolute;
+  margin-bottom: 10px;
+  z-index: 999;
+  color: #ffffff;
+  position: relative;
+  margin-right: 19px;
+}
+.my-nav {
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  z-index: 999;
+  background-color: rgb(17, 22, 22);
+  opacity: 0.8;
+}
+.my-carousel {
+  position: absolute;
+  top: 0;
+}
+.section {
+  margin-top: 0px;
+  background-color: #f2f2f2;
+}
+.refer {
+  color: #ffffff;
+  background: transparent;
+  position: absolute;
+  z-index: 1;
+}
+.item {
+  height: 80px;
+  background-color: #e3e1e1;
+}
+.card-title {
+  font-size: 33px;
+  padding-left: 16px;
+}
+.card-text {
+  margin-top: -12px;
+  padding-left: 16px;
+}
+.item-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.speciality {
+  background-color: #ffffff;
+}
+.specility-num {
+  color: yellow;
+  margin-right: 10px;
+  font-size: 40px;
+}
+.specility-text {
+  color: black;
+  font-weight: 700;
+  margin-top: 18px;
+  margin-right: 15px;
+}
+.specility-desc {
+  color: cadetblue;
+}
+.fleet {
+  background-color: #f2f2f2f2;
+}
+.fleet-row {
+  background-color: #ffffff;
+}
+.title {
+  margin-top: 15px;
+  margin-bottom: -14px;
+  margin-left: 53px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: cursive;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  height: auto;
+  max-width: 100%;
+  line-height: 1;
+  width: 2000px;
+}
+.bike-img {
+  margin-left: 15 !important;
+  padding-left: 19px;
+}
+.link-item {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.logo-img {
+  margin: auto;
+  display: block;
+}
+.footer-list ul {
+  list-style-type: none;
+}
+.footer {
+  background-color: #363636;
+  color: #ffffff;
+}
+.footer ul {
+  list-style-type: none;
+  margin-left: -39px;
+}
+.footer ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.follow ul li a {
+  color: #ffffff;
+}
+.inner-link {
+  background-color: transparent;
+}
+.footer-list {
+  margin-left: 111px;
+}
+.footer-list li {
+  font-size: 13px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer-second li {
+  list-style-type: none;
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer-3rd li {
+  list-style-type: none;
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer-3rd {
+  margin-left: -39px;
+}
+
+.navbar-nav li a {
+  color: #ffffff;
+  text-decoration: none;
+}
